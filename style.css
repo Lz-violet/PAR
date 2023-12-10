@@ -1,0 +1,20 @@
+body{
+	background-color: #E3F2FD;
+	font-family: tahoma;
+}
+
+p{
+	font-size: 16px;
+}
+
+h1,h2{
+	font-family: italic;
+}
+
+td{
+	font-family: bold;
+}
+
+img{
+	border: 1px solid #ffffff;
+}
